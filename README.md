@@ -12,8 +12,8 @@ In this course, You will practice more labs of scikit-learn. This will help you 
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Mastering Decision Trees                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
 |     002 | 🎯 Understanding Validation Curves                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/106940'>Start Challenge</a> |
 |     003 | 🎯 Clustering and Insights                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/198286'>Start Challenge</a> |
