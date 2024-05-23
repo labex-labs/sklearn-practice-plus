@@ -12,7 +12,7 @@ In this course, You will practice more labs of scikit-learn. This will help you 
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Mastering Decision Trees                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
 |     002 | 🎯 Understanding Validation Curves                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/106940'>Start Challenge</a> |
@@ -275,4 +275,9 @@ In this course, You will practice more labs of scikit-learn. This will help you 
 |     259 | 📖 Scikit-Learn Iterative Imputer                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49173'>Start Lab</a>        |
 |     260 | 📖 Manifold Learning on Handwritten Digits               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49199'>Start Lab</a>        |
 |     261 | 📖 Scikit-Learn Classifier Comparison                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49080'>Start Lab</a>        |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 
