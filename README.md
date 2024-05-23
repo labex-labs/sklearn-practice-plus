@@ -278,6 +278,7 @@ In this course, You will practice more labs of scikit-learn. This will help you 
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 
